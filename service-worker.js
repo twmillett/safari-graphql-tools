@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/twmillett/safari-graphql-tools/precache-manifest.a577d7573078d7d87b796718a030cc5a.js"
+  "/twmillett/safari-graphql-tools/precache-manifest.eb16184abf15f6a84e808be4b3ab5c9a.js"
 );
 
 self.addEventListener('message', (event) => {

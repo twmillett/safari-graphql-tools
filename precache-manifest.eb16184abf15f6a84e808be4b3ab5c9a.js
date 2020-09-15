@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "96b5a4ecfd0f17dbaa0d4a1016565ad3",
+    "revision": "3264f5e9a4e4268eaffa6ac1a89933ab",
     "url": "/twmillett/safari-graphql-tools/index.html"
   },
   {
-    "revision": "485f60f650d58e914ff4",
+    "revision": "b9cbb7d2de6ad30743a3",
     "url": "/twmillett/safari-graphql-tools/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/twmillett/safari-graphql-tools/static/js/2.37d487bc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "485f60f650d58e914ff4",
-    "url": "/twmillett/safari-graphql-tools/static/js/main.d604a4e9.chunk.js"
+    "revision": "b9cbb7d2de6ad30743a3",
+    "url": "/twmillett/safari-graphql-tools/static/js/main.0f94e557.chunk.js"
   },
   {
     "revision": "d01b7e3f0f23a4adb070",
