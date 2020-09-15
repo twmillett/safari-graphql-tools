@@ -1,6 +1,11 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import { makeExecutableSchema } from 'graphql-tools';
+
+function foo()  {
+  makeExecutableSchema();
+}
 
 function App() {
   return (
