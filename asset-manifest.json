@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/twmillett/safari-graphql-tools/static/css/main.5f361e03.chunk.css",
+    "main.js": "/twmillett/safari-graphql-tools/static/js/main.d604a4e9.chunk.js",
+    "main.js.map": "/twmillett/safari-graphql-tools/static/js/main.d604a4e9.chunk.js.map",
+    "runtime-main.js": "/twmillett/safari-graphql-tools/static/js/runtime-main.9ff9c0d0.js",
+    "runtime-main.js.map": "/twmillett/safari-graphql-tools/static/js/runtime-main.9ff9c0d0.js.map",
+    "static/js/2.37d487bc.chunk.js": "/twmillett/safari-graphql-tools/static/js/2.37d487bc.chunk.js",
+    "static/js/2.37d487bc.chunk.js.map": "/twmillett/safari-graphql-tools/static/js/2.37d487bc.chunk.js.map",
+    "index.html": "/twmillett/safari-graphql-tools/index.html",
+    "precache-manifest.a577d7573078d7d87b796718a030cc5a.js": "/twmillett/safari-graphql-tools/precache-manifest.a577d7573078d7d87b796718a030cc5a.js",
+    "service-worker.js": "/twmillett/safari-graphql-tools/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/twmillett/safari-graphql-tools/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.37d487bc.chunk.js.LICENSE.txt": "/twmillett/safari-graphql-tools/static/js/2.37d487bc.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/twmillett/safari-graphql-tools/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ff9c0d0.js",
+    "static/js/2.37d487bc.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.d604a4e9.chunk.js"
+  ]
+}
