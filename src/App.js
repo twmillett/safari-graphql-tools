@@ -2,9 +2,14 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 import { makeExecutableSchema } from 'graphql-tools';
+import { execute } from 'graphql';
 
 function foo()  {
   makeExecutableSchema();
+}
+
+function bar() {
+  execute();
 }
 
 function App() {
@@ -24,6 +29,8 @@ function App() {
           Learn React Now
         </a>
       </header>
+      <button onClick={() => foo()}>Make Schema</button>
+      <button onClick={() => bar()}>Execute</button>
     </div>
   );
 }
